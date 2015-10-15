@@ -1,0 +1,6 @@
+C:\Users\Damian\Desktop\program paradygmaty\program paradygmaty\bin\Debug\program paradygmaty.exe.config
+C:\Users\Damian\Desktop\program paradygmaty\program paradygmaty\bin\Debug\program paradygmaty.exe
+C:\Users\Damian\Desktop\program paradygmaty\program paradygmaty\bin\Debug\program paradygmaty.pdb
+C:\Users\Damian\Desktop\program paradygmaty\program paradygmaty\obj\Debug\program paradygmaty.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Desktop\program paradygmaty\program paradygmaty\obj\Debug\program paradygmaty.exe
+C:\Users\Damian\Desktop\program paradygmaty\program paradygmaty\obj\Debug\program paradygmaty.pdb
